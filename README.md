@@ -1,5 +1,7 @@
 # gulp-timestamp-append
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/dyygtfx/gulp-timestamp-append.svg)](https://greenkeeper.io/)
+
 `npm i -D gulp-timestamp-append`
 
 具体使用参考 https://github.com/bustardcelly/gulp-rev-append
